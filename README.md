@@ -51,8 +51,6 @@ SESSION_SECRET=your_session_secret
    http://localhost:3000
    ```
 
-🌐 Live Demo
-[Click here to visit the live project](https://wanderinn-szmw.onrender.com/listings)
 
 
 📁 Project Structure
